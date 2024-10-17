@@ -3,7 +3,7 @@ Version:	60346
 Release:	2
 Summary:	Formulas frequently used in rigid body mechanics
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mecaso
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mecaso
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mecaso.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mecaso.doc.r%{version}.tar.xz
